@@ -19,6 +19,7 @@ Built for **hands-on learning** and **practical application**, these labs provid
 |-------------|-----------------|-----------------|
 | **[osi-model-guide/](osi-model-guide/)** | **Comprehensive OSI 7-layer model learning reference with hands-on labs** | **Network fundamentals • Protocol analysis • Wireshark • TCP/IP stack • Troubleshooting** |
 | **[cisco-packet-tracer/](cisco-packet-tracer/)** | **Professional network simulation laboratory with Cisco Packet Tracer** | **CCNA preparation • Network design • IOS configuration • Routing & switching • VLANs** |
+| **[gns3-labs/](gns3-labs/)** | **Advanced network emulation with real IOS images and enterprise scenarios** | **Enterprise networking • Real IOS • CCNP/CCIE • Advanced protocols • Network automation** |
 
 ## 🔧 **Getting Started**
 
@@ -35,13 +36,17 @@ cat README.md
 cd ../cisco-packet-tracer
 cat README.md
 
-# Start with basic switching lab
-cd lab-exercises
-cat lab-01-basic-switching.md
+# Advance to GNS3 virtual network labs
+cd ../gns3-labs
+cat README.md
 
-# Review configuration templates
-cd ../configurations
-cat basic-network-templates.md
+# Review GNS3 setup and configuration
+cd documentation
+cat gns3-setup-guide.md
+
+# Explore enterprise network scenarios
+cd ../lab-scenarios
+cat scenario-01-enterprise-campus.md
 ```
 
 ## 🎯 **Learning Objectives**
