@@ -18,6 +18,7 @@ Built for **hands-on learning** and **practical application**, these labs provid
 | **Project** | **Description** | **Key Skills** |
 |-------------|-----------------|-----------------|
 | **[osi-model-guide/](osi-model-guide/)** | **Comprehensive OSI 7-layer model learning reference with hands-on labs** | **Network fundamentals • Protocol analysis • Wireshark • TCP/IP stack • Troubleshooting** |
+| **[cisco-packet-tracer/](cisco-packet-tracer/)** | **Professional network simulation laboratory with Cisco Packet Tracer** | **CCNA preparation • Network design • IOS configuration • Routing & switching • VLANs** |
 
 ## 🔧 **Getting Started**
 
@@ -28,15 +29,19 @@ cd Networking-Projects
 
 # Navigate to OSI Model learning guide
 cd osi-model-guide
-
-# Start with the comprehensive overview
 cat README.md
 
-# Explore layer-specific details
-ls layer-details/
+# Explore Cisco Packet Tracer laboratory
+cd ../cisco-packet-tracer
+cat README.md
 
-# Try hands-on exercises
-cd practical-exercises
+# Start with basic switching lab
+cd lab-exercises
+cat lab-01-basic-switching.md
+
+# Review configuration templates
+cd ../configurations
+cat basic-network-templates.md
 ```
 
 ## 🎯 **Learning Objectives**
