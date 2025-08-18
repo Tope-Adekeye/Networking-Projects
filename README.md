@@ -21,6 +21,7 @@ Built for **hands-on learning** and **practical application**, these labs provid
 | **[cisco-packet-tracer/](cisco-packet-tracer/)** | **Professional network simulation laboratory with Cisco Packet Tracer** | **CCNA preparation • Network design • IOS configuration • Routing & switching • VLANs** |
 | **[gns3-labs/](gns3-labs/)** | **Advanced network emulation with real IOS images and enterprise scenarios** | **Enterprise networking • Real IOS • CCNP/CCIE • Advanced protocols • Network automation** |
 | **[wireshark/](wireshark/)** | **Professional network protocol analyzer for security investigation and performance optimization** | **Deep packet inspection • Cybersecurity analysis • Digital forensics • Performance troubleshooting • Threat hunting** |
+| **[iperf3/](iperf3/)** | **Enterprise network bandwidth testing and performance measurement laboratory** | **Performance analysis • SLA validation • Capacity planning • Network optimization • Automation scripting** |
 
 ## 🔧 **Getting Started**
 
@@ -45,13 +46,17 @@ cat README.md
 cd ../wireshark
 cat README.md
 
-# Explore network troubleshooting scenarios
-cd analysis-scenarios
-cat network-troubleshooting-lab.md
+# Perform enterprise bandwidth testing
+cd ../iperf3
+cat README.md
 
-# Investigate security incidents and threats
-cd ../security-investigations
-cat malware-analysis.md
+# Explore performance testing scenarios
+cd testing-scenarios
+cat enterprise-bandwidth-testing.md
+
+# Review automation and scripting
+cd ../automation-scripts
+cat network-performance-automation.py
 ```
 
 ## 🎯 **Learning Objectives**
