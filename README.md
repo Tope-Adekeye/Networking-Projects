@@ -22,6 +22,7 @@ Built for **hands-on learning** and **practical application**, these labs provid
 | **[gns3-labs/](gns3-labs/)** | **Advanced network emulation with real IOS images and enterprise scenarios** | **Enterprise networking • Real IOS • CCNP/CCIE • Advanced protocols • Network automation** |
 | **[wireshark/](wireshark/)** | **Professional network protocol analyzer for security investigation and performance optimization** | **Deep packet inspection • Cybersecurity analysis • Digital forensics • Performance troubleshooting • Threat hunting** |
 | **[iperf3/](iperf3/)** | **Enterprise network bandwidth testing and performance measurement laboratory** | **Performance analysis • SLA validation • Capacity planning • Network optimization • Automation scripting** |
+| **[testssl.sh/](testssl.sh/)** | **Professional SSL/TLS security scanner for compliance validation and vulnerability assessment** | **SSL/TLS security • Compliance auditing • Vulnerability scanning • Certificate analysis • Security automation** |
 
 ## 🔧 **Getting Started**
 
@@ -50,13 +51,17 @@ cat README.md
 cd ../iperf3
 cat README.md
 
-# Explore performance testing scenarios
-cd testing-scenarios
-cat enterprise-bandwidth-testing.md
+# Conduct SSL/TLS security assessments
+cd ../testssl.sh
+cat README.md
 
-# Review automation and scripting
+# Explore TLS security assessment scenarios
+cd security-assessments
+cat enterprise-tls-security-assessment.md
+
+# Review SSL automation capabilities
 cd ../automation-scripts
-cat network-performance-automation.py
+cat enterprise-ssl-automation.py
 ```
 
 ## 🎯 **Learning Objectives**
